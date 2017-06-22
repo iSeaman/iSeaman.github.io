@@ -8,7 +8,7 @@ Experienced <!--[super awesome](url) -->support professional seeking entry-level
 * Terminal/Bash
 * Visual Studio
 * Git
-* Primciples OOP
+* Principles OOP
 * Agile TDD
 * MSSQL
 
