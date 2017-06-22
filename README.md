@@ -3,7 +3,7 @@
 Experienced <!--[super awesome](url) -->support professional seeking entry-level software development position that utilizes my technical skills, education and proven process management abilities. My goal is to be a part of a diverse team of brand ambassadors using software to create client solutions and transform chaos into elegant code.
 
 ### Technical Skills
-#### BackEnd
+>#### BackEnd
 * C#/.NET
 * Terminal/Bash
 * Visual Studio
@@ -11,8 +11,7 @@ Experienced <!--[super awesome](url) -->support professional seeking entry-level
 * Principles OOP
 * Agile TDD
 * MSSQL
-
-#### FrontEnd
+>#### FrontEnd
 * HTML
 * CSS
 * JavaScript/jQuery
@@ -21,12 +20,11 @@ Experienced <!--[super awesome](url) -->support professional seeking entry-level
 
 
 ### Education
-#### [Tech Elevator](http://www.techelevator.com/) - Cleveland, Ohio - August 2017
+>#### [Tech Elevator](http://www.techelevator.com/) - Cleveland, Ohio - August 2017
 * 14-week .NET coding bootcamp
 * involving developing dynamic web based software systems
 * using the C#/.NET programing language and platform, including OOP & SQL
-
-#### [Cleveland State University](http://www.csuohio.edu/) - Cleveland, Ohio - May 2016
+>#### [Cleveland State University](http://www.csuohio.edu/) - Cleveland, Ohio - May 2016
 * B.A. Communication Management
 * Cum GPA 3.2
 * Motivation Training: Applications of Dan Pink's Drive - 2016
@@ -34,38 +32,36 @@ Experienced <!--[super awesome](url) -->support professional seeking entry-level
 
 
 ### Technical Projects
-#### [LeanDog GiveCamp](http://clevelandgivecamp.org/) - Cleveland, Ohio - July 2017
+>#### [LeanDog GiveCamp](http://clevelandgivecamp.org/) - Cleveland, Ohio - July 2017
 * Sofware Developer Volunteer
 * Communication and collaboration with volunteer team to successfully meet project deadlines and priorities
-
-#### National Parks Software - Cleveland, Ohio - June 2017
+>#### National Parks Software - Cleveland, Ohio - June 2017
 * Paired Project
 * Worked as team to design and code a functional CLI reservation program
-
-#### Vending Machine Software - Cleveland, Ohio - June 2017
+>#### Vending Machine Software - Cleveland, Ohio - June 2017
 * Paired Project
 * Worked with fellow student to successfully create working command line interface 'vending machine' program
 
 
 ### Experience
-#### [Ashland University](https://www.ashland.edu/) - Ashland, Ohio - Sept'16-May'17
-_College of Business and Economics - Office of the Dean_
+>#### [Ashland University](https://www.ashland.edu/) - Ashland, Ohio - Sept'16-May'17
+>_College of Business and Economics - Office of the Dean_
 * Process manager for AACSB application process and MBA program initiatives
 * Maintained & updated Agile CRM database of new & existing MBA prospects
 * Introduced Trello software for scheduling, training and monitoring project status
 * Created and maintained Google shared-folders for synchronous use by faculty & staff
 
 #### [Cleveland State University](http://www.csuohio.edu/) - Cleveland, Ohio - Jan'09-Sep'16
-_Contracts Coordinator - Office of the Provost_
+>_Contracts Coordinator - Office of the Provost_
 * Served as primary point of contact on complex and confidential contract and data issues
 * Developed and managed secured shared-folders for synchronous use by 13 departments
 * Utilized PeopleSoft software to input, maintain, and query faculty and staff data
-_Administrative Coordinator - Monte Ahuja College of Business_
+>_Administrative Coordinator - Monte Ahuja College of Business_
 * Maintained and updated CRM database of new & existing MBA prospects
 * Created and maintained multiple BlackBoard shells for Executive and Global MBA cohorts
 * Utilized OnBase software to access and process student application information
 * Installed and maintained Rise Vision digital signage content software
-_Clerical Specialist - Office of Treasury Services_
+>_Clerical Specialist - Office of Treasury Services_
 * Worked with PeopleSoft to assist students in processing payments, tuition, and student account information
 * Maintained the departmet Excel Macros to consolidate student account information
 
