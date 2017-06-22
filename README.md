@@ -13,7 +13,6 @@ Experienced [super awesome](url) support professional seeking entry-level softwa
 * OOP
 * TDD
 * MySQL
-
 #### FrontEnd
 * HTML
 * CSS
