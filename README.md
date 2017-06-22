@@ -1,6 +1,6 @@
 ## Objective
 
-Experienced support professional seeking entry-level software development position that utilizes my technical skills, education and proven process management abilities. My goal is to be a part of a divers team of brand ambassadors using software to create client solutions and transform chaos into elegant code.
+Experienced super awesome support professional seeking entry-level software development position that utilizes my technical skills, education and proven process management abilities. My goal is to be a part of a divers team of brand ambassadors using software to create client solutions and transform chaos into elegant code.
 
 ### Technical Skills
 ```markdown
