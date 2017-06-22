@@ -1,12 +1,31 @@
-## Welcome to GitHub Pages
+## Objective
 
-You can use the [editor on GitHub](https://github.com/iSeaman/iSeaman.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Experienced support professional seeking entry-level software development position that utilizes my technical skills, education and proven process management abilities. My goal is to be a part of a divers team of brand ambassadors using software to create client solutions and transform chaos into elegant code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Technical Skills
+```markdown
+#BackEnd
+- .NET
+- C#
+- Terminal/Bash
+- Virtual Studio
+- Git
+- jQuery
+- OOP
+- TDD
+- MySQL
 
-### Markdown
+#FrontEnd
+- HTML
+- CSS
+- JavaScript
+- CRM Management
+- Trello
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+
+
+@*Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -36,3 +55,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+You can use the [editor on GitHub](https://github.com/iSeaman/iSeaman.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
