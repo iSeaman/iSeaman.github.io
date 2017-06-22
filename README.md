@@ -5,8 +5,8 @@ Experienced super awesome support professional seeking entry-level software deve
 ### Technical Skills
 ```markdown
 #BackEnd
-- .NET
-- C#
+* .NET
+* C#
 - Terminal/Bash
 - Virtual Studio
 - Git
@@ -25,7 +25,7 @@ Experienced super awesome support professional seeking entry-level software deve
 ```
 
 
-@*Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for 
 
 ```markdown
 Syntax highlighted code block
@@ -58,3 +58,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 You can use the [editor on GitHub](https://github.com/iSeaman/iSeaman.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-->
