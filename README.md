@@ -4,19 +4,17 @@ Experienced [super awesome](url) support professional seeking entry-level softwa
 
 ### Technical Skills
 #### BackEnd
-* .NET
-* C#
+* C#/.NET
 * Terminal/Bash
-* Virtual Studio
+* Visual Studio
 * Git
-* jQuery
-* OOP
-* TDD
-* MySQL
+* Primciples OOP
+* Agile TDD
+* MssSQL
 #### FrontEnd
 * HTML
 * CSS
-* JavaScript
+* JavaScript/jQuery
 * CRM Management
 * Trello
 
