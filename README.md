@@ -1,6 +1,6 @@
 ## Objective
 
-Experienced [super awesome](url) support professional seeking entry-level software development position that utilizes my technical skills, education and proven process management abilities. My goal is to be a part of a diverse team of brand ambassadors using software to create client solutions and transform chaos into elegant code.
+Experienced <!--[super awesome](url) -->support professional seeking entry-level software development position that utilizes my technical skills, education and proven process management abilities. My goal is to be a part of a diverse team of brand ambassadors using software to create client solutions and transform chaos into elegant code.
 
 ### Technical Skills
 #### BackEnd
@@ -10,12 +10,12 @@ Experienced [super awesome](url) support professional seeking entry-level softwa
 * Git
 * Primciples OOP
 * Agile TDD
-* MssSQL
+* MSSQL
 #### FrontEnd
 * HTML
 * CSS
 * JavaScript/jQuery
-* CRM Management
+* Agile CRM software
 * Trello
 
 
@@ -23,7 +23,7 @@ Experienced [super awesome](url) support professional seeking entry-level softwa
 #### Tech Elevator - Cleveland, Ohio - August 2017
 * 14-week .NET coding bootcamp
 * involving developing dynamic web based software systems
-* using the .NET programing language and platform, including C#, OOP & SQL
+* using the C#/.NET programing language and platform, including OOP & SQL
 #### Cleveland State University - Cleveland, Ohio - May 2016
 * B.A. Communication Management
 * Cum GPA 3.2
@@ -35,9 +35,12 @@ Experienced [super awesome](url) support professional seeking entry-level softwa
 #### LeanDog GiveCamp - Cleveland, Ohio - July 2017
 * Sofware Developer Volunteer
 * Communication and collaboration with volunteer team to successfully meet project deadlines and priorities
+#### National Parks Software - Cleveland, Ohio - June 2017
+* Paired Project
+* Worked as team to design and code a functional CLI reservation program
 #### Vending Machine Software - Cleveland, Ohio - June 2017
-* Pair Project
-* Worked with fellow student to successfully create working program
+* Paired Project
+* Worked with fellow student to successfully create working command line interface 'vending machine' program
 
 
 
