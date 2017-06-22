@@ -14,7 +14,7 @@ Experienced [super awesome](url) support professional seeking entry-level softwa
 * TDD
 * MySQL
 
-#FrontEnd
+#### FrontEnd
 * HTML
 * CSS
 * JavaScript
@@ -27,7 +27,6 @@ Experienced [super awesome](url) support professional seeking entry-level softwa
 * 14-week .NET coding bootcamp
 * involving developing dynamic web based software systems
 * using the .NET programing language and platform, including C#, OOP & SQL
-
 #### Cleveland State University - Cleveland, Ohio - May 2016
 * B.A. Communication Management
 * Cum GPA 3.2
