@@ -1,28 +1,47 @@
 ## Objective
 
-Experienced super awesome support professional seeking entry-level software development position that utilizes my technical skills, education and proven process management abilities. My goal is to be a part of a divers team of brand ambassadors using software to create client solutions and transform chaos into elegant code.
+Experienced [super awesome](url) support professional seeking entry-level software development position that utilizes my technical skills, education and proven process management abilities. My goal is to be a part of a diverse team of brand ambassadors using software to create client solutions and transform chaos into elegant code.
 
 ### Technical Skills
-```markdown
-#BackEnd
+#### BackEnd
 * .NET
 * C#
-- Terminal/Bash
-- Virtual Studio
-- Git
-- jQuery
-- OOP
-- TDD
-- MySQL
+* Terminal/Bash
+* Virtual Studio
+* Git
+* jQuery
+* OOP
+* TDD
+* MySQL
 
 #FrontEnd
-- HTML
-- CSS
-- JavaScript
-- CRM Management
-- Trello
+* HTML
+* CSS
+* JavaScript
+* CRM Management
+* Trello
 
-```
+
+### Education
+#### Tech Elevator - Cleveland, Ohio - August 2017
+* 14-week .NET coding bootcamp
+* involving developing dynamic web based software systems
+* using the .NET programing language and platform, including C#, OOP & SQL
+#### Cleveland State University - Cleveland, Ohio - May 2016
+* **B.A. Communication Management**
+* Cum GPA 3.2
+* **Motivation Training: Applications of Dan Pink's Drive - 2016**
+* **Monte Ahuja Certificate of Accelerated Leadership - 2014**
+
+
+### Technical Projects
+#### LeanDog GiveCamp - Cleveland, Ohio - July 2017
+* Sofware Developer Volunteer
+* Communication and collaboration with volunteer team to successfully meet project deadlines and priorities
+#### Vending Machine Software - Cleveland, Ohio - June 2017
+* Pair Project
+* Worked with fellow student to successfully create working program
+
 
 
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for 
