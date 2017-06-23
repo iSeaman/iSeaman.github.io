@@ -3,8 +3,8 @@
 Experienced <!--[super awesome](url) -->support professional seeking entry-level software development position that utilizes my technical skills, education and proven process management abilities. My goal is to be a part of a diverse team of brand ambassadors using software to create client solutions and transform chaos into elegant code.
 
 <!-- <div style="text-align:center">Centered text</div> -->
-### Technical Skills
-#### BackEnd
+## Technical Skills
+### BackEnd
 * C#/.NET
 * Terminal/Bash
 * Visual Studio
@@ -13,7 +13,7 @@ Experienced <!--[super awesome](url) -->support professional seeking entry-level
 * Agile TDD
 * MS SQL
 
-#### FrontEnd
+### FrontEnd
 * HTML
 * CSS
 * JavaScript/jQuery
@@ -21,41 +21,41 @@ Experienced <!--[super awesome](url) -->support professional seeking entry-level
 * Trello
 
 
-### Education
-#### [Tech Elevator](http://www.techelevator.com/) - Cleveland, Ohio - August 2017
+## Education
+### [Tech Elevator](http://www.techelevator.com/) - Cleveland, Ohio - August 2017
 * 14-week .NET coding bootcamp
 * involving developing dynamic web based software systems
 * using the C#/.NET programing language and platform, including OOP & SQL   
 
-#### [Cleveland State University](http://www.csuohio.edu/) - Cleveland, Ohio - May 2016
+### [Cleveland State University](http://www.csuohio.edu/) - Cleveland, Ohio - May 2016
 * B.A. Communication Management [Cum GPA 3.2]
 * Motivation Training: Applications of Dan Pink's Drive - 2016
 * Monte Ahuja Certificate of Accelerated Leadership - 2014
 
 
-### Technical Projects
-#### [LeanDog GiveCamp](http://clevelandgivecamp.org/) - Cleveland, Ohio - July 2017
+## Technical Projects
+### [LeanDog GiveCamp](http://clevelandgivecamp.org/) - Cleveland, Ohio - July 2017
 * Sofware Developer Volunteer
 * Communication and collaboration with volunteer team to successfully meet project deadlines and priorities   
 
-#### National Parks Software  -  Cleveland, Ohio  -  June 2017
+### National Parks Software  -  Cleveland, Ohio  -  June 2017
 * Paired Project
 * Worked as team to design and code a functional CLI reservation program   
 
-#### Vending Machine Software  -  Cleveland, Ohio  -  June 2017
+### Vending Machine Software  -  Cleveland, Ohio  -  June 2017
 * Paired Project
 * Worked with fellow student to successfully create working command line interface 'vending machine' program
 
 
-### Experience
-#### [Ashland University](https://www.ashland.edu/)  -  Ashland, Ohio  -  Sept'16 - May'17  
+## Experience
+### [Ashland University](https://www.ashland.edu/)  -  Ashland, Ohio  -  Sept'16 - May'17  
  _College of Business and Economics - Office of the Dean_
 * Process manager for AACSB application process and MBA program initiatives
 * Maintained & updated Agile CRM database of new & existing MBA prospects
 * Introduced Trello software for scheduling, training and monitoring project status
 * Created and maintained Google shared-folders for synchronous use by faculty & staff
 
-#### [Cleveland State University](http://www.csuohio.edu/)  -  Cleveland, Ohio  -  Jan'09 - Sep'16  
+### [Cleveland State University](http://www.csuohio.edu/)  -  Cleveland, Ohio  -  Jan'09 - Sep'16  
 _Contracts Coordinator - Office of the Provost_  
 * Served as primary point of contact on complex and confidential contract and data issues
 * Developed and managed secured shared-folders for synchronous use by 13 departments
@@ -72,7 +72,7 @@ _Clerical Specialist - Office of Treasury Services_
 * Maintained the departmet Excel Macros to consolidate student account information
 
 
-### Strengths
+## Strengths
 * Critical thinking
 * Communication
 * Collaboration
@@ -81,14 +81,14 @@ _Clerical Specialist - Office of Treasury Services_
 * Accelerated Acclimation
 
 
-### Additional Training
+## Additional Training
 * PeopleSoft database
 * BlackBoard software
 * Codecademy HTML & CSS
 * W3Schools HTML, CSS & SQL
 
 
-### Interests
+## Interests
 * Big Data
 * Internet of Things
 * SCRUM leadership
@@ -97,7 +97,7 @@ _Clerical Specialist - Office of Treasury Services_
 * Wellington Writers Group
 * V-8 engines
 
-### Groups
+## Groups
 * [Ohio North SQL Server User Group](http://ohionorth.pass.org/)
 * [Cleveland Area Python Interest Group](https://www.meetup.com/Cleveland-Area-Python-Interest-Group/)
 * [Cleveland JavaScript Group](https://www.meetup.com/Cleveland-Area-Python-Interest-Group/)
