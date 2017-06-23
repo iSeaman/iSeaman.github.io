@@ -2,6 +2,7 @@
 
 Experienced <!--[super awesome](url) -->support professional seeking entry-level software development position that utilizes my technical skills, education and proven process management abilities. My goal is to be a part of a diverse team of brand ambassadors using software to create client solutions and transform chaos into elegant code.
 
+<div class="align-center">Centered text</div>
 ### Technical Skills
 #### BackEnd
 * C#/.NET
