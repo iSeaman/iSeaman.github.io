@@ -78,7 +78,7 @@ _Clerical Specialist - Office of Treasury Services_
 * Collaboration
 * Self Activator
 * Problem solving
-* Accelerated Acclimation
+* Accelerated Integration
 
 
 ## Additional Training
