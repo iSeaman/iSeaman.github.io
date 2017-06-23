@@ -52,7 +52,7 @@ _College of Business and Economics - Office of the Dean_
 * Created and maintained Google shared-folders for synchronous use by faculty & staff
 
 #### [Cleveland State University](http://www.csuohio.edu/) - Cleveland, Ohio - Jan'09-Sep'16  
-_Contracts Coordinator - Office of the Provost_
+_Contracts Coordinator - Office of the Provost_  
 * Served as primary point of contact on complex and confidential contract and data issues
 * Developed and managed secured shared-folders for synchronous use by 13 departments
 * Utilized PeopleSoft software to input, maintain, and query faculty and staff data  
