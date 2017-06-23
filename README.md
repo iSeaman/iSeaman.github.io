@@ -9,9 +9,9 @@ Experienced <!--[super awesome](url) -->support professional seeking entry-level
 * Terminal/Bash
 * Visual Studio
 * Git
-* Principles OOP
+* OOP Principles
 * Agile TDD
-* MSSQL
+* MS SQL
 
 #### FrontEnd
 * HTML
@@ -28,8 +28,7 @@ Experienced <!--[super awesome](url) -->support professional seeking entry-level
 * using the C#/.NET programing language and platform, including OOP & SQL   
 
 #### [Cleveland State University](http://www.csuohio.edu/) - Cleveland, Ohio - May 2016
-* B.A. Communication Management
-* Cum GPA 3.2
+* B.A. Communication Management [Cum GPA 3.2]
 * Motivation Training: Applications of Dan Pink's Drive - 2016
 * Monte Ahuja Certificate of Accelerated Leadership - 2014
 
@@ -39,24 +38,24 @@ Experienced <!--[super awesome](url) -->support professional seeking entry-level
 * Sofware Developer Volunteer
 * Communication and collaboration with volunteer team to successfully meet project deadlines and priorities   
 
-#### National Parks Software - Cleveland, Ohio - June 2017
+#### National Parks Software  -  Cleveland, Ohio  -  June 2017
 * Paired Project
 * Worked as team to design and code a functional CLI reservation program   
 
-#### Vending Machine Software - Cleveland, Ohio - June 2017
+#### Vending Machine Software  -  Cleveland, Ohio  -  June 2017
 * Paired Project
 * Worked with fellow student to successfully create working command line interface 'vending machine' program
 
 
 ### Experience
-#### [Ashland University](https://www.ashland.edu/) - Ashland, Ohio - Sept'16-May'17  
+#### [Ashland University](https://www.ashland.edu/)  -  Ashland, Ohio  -  Sept'16 - May'17  
  _College of Business and Economics - Office of the Dean_
 * Process manager for AACSB application process and MBA program initiatives
 * Maintained & updated Agile CRM database of new & existing MBA prospects
 * Introduced Trello software for scheduling, training and monitoring project status
 * Created and maintained Google shared-folders for synchronous use by faculty & staff
 
-#### [Cleveland State University](http://www.csuohio.edu/) - Cleveland, Ohio - Jan'09-Sep'16  
+#### [Cleveland State University](http://www.csuohio.edu/)  -  Cleveland, Ohio  -  Jan'09 - Sep'16  
 _Contracts Coordinator - Office of the Provost_  
 * Served as primary point of contact on complex and confidential contract and data issues
 * Developed and managed secured shared-folders for synchronous use by 13 departments
@@ -80,6 +79,13 @@ _Clerical Specialist - Office of Treasury Services_
 * Self Activator
 * Problem solving
 * Accelerated Acclimation
+
+
+### Additional Training
+* PeopleSoft database
+* BlackBoard software
+* Codecademy HTML & CSS
+* W3Schools HTML, CSS & SQL
 
 
 ### Interests
