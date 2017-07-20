@@ -100,9 +100,10 @@ _Clerical Specialist - Office of Treasury Services_
 ## Groups
 * [Ohio North SQL Server User Group](http://ohionorth.pass.org/)
 * [Cleveland Area Python Interest Group](https://www.meetup.com/Cleveland-Area-Python-Interest-Group/)
-* [Cleveland JavaScript Group](https://www.meetup.com/Cleveland-Area-Python-Interest-Group/)
+* [Cleveland JavaScript Group](https://www.meetup.com/Cleveland-Javascript/)
 * [Cleveland C#/VB.NET User Group](https://www.meetup.com/Cleveland-C-VB-Net-User-Group/)
 * [cle redhat user group](https://www.meetup.com/Cleveland-Red-Hat-Meetup/)
+* [Cleveland Big Data and Hadoop User Group](https://www.meetup.com/Cleveland-Hadoop/)
 
 
 
